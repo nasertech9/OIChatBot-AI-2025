@@ -1,0 +1,7 @@
+{
+  "name": "OIChatBot AI (2025)",
+  "description": "A next-generation conversational chatbot web application that allows users to sign up, log in, and chat live with an advanced AI assistant in a futuristic, glassmorphic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
